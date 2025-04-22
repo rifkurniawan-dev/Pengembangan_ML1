@@ -1,0 +1,12 @@
+pandas
+numpy
+regex
+nltk
+seaborn
+matplotlib
+scikit-learn
+imbalanced-learn
+tensorflow
+keras
+pickleshare
+joblib
